@@ -27,5 +27,9 @@ streamlit run main.py
 - `data.json` → file penyimpanan
 - `README.md` → dokumentasi
 
-## Tangkapan Layar
-(Silakan tambahkan screenshot dari dashboard hasil jalan)
+# Anggota Kelompok Final Project
+<ol>
+    <li>M. Firriz Dwinov (24.02.1086)</li>
+    <li>M. Iqbal Asidiq (24.02.1080)</li>
+    <li>Hafiz Arul Zaky (24.02.1088)</li>
+</ol>
